@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![image_alt](https://github.com/MoshtaqMo/WalletAppUi/blob/49a7cccd22ed12b1abe4028b4fda85bddbdc4be5/Screenshot%202025-05-14%20121647.png)
